@@ -1,0 +1,68 @@
+[
+  {
+    "file": "cinematic-desktop.mp4",
+    "source": "brand-glass.webp",
+    "type": "Animated placeholder; original PDF artwork with periodic camera movement",
+    "bytes": 369166,
+    "dimensions": [
+      1280,
+      720
+    ],
+    "duration": 12
+  },
+  {
+    "file": "cinematic-mobile.mp4",
+    "source": "brand-glass.webp",
+    "type": "Animated placeholder; original PDF artwork with periodic camera movement",
+    "bytes": 218694,
+    "dimensions": [
+      540,
+      720
+    ],
+    "duration": 12
+  },
+  {
+    "file": "editorial-desktop.mp4",
+    "source": "brand-cards.webp",
+    "type": "Animated placeholder; original PDF artwork with periodic camera movement",
+    "bytes": 696243,
+    "dimensions": [
+      1280,
+      720
+    ],
+    "duration": 12
+  },
+  {
+    "file": "editorial-mobile.mp4",
+    "source": "brand-cards.webp",
+    "type": "Animated placeholder; original PDF artwork with periodic camera movement",
+    "bytes": 290048,
+    "dimensions": [
+      540,
+      720
+    ],
+    "duration": 12
+  },
+  {
+    "file": "connected-desktop.mp4",
+    "source": "brand-phone.webp",
+    "type": "Animated placeholder; original PDF artwork with periodic camera movement",
+    "bytes": 397363,
+    "dimensions": [
+      1280,
+      720
+    ],
+    "duration": 12
+  },
+  {
+    "file": "connected-mobile.mp4",
+    "source": "brand-phone.webp",
+    "type": "Animated placeholder; original PDF artwork with periodic camera movement",
+    "bytes": 215346,
+    "dimensions": [
+      540,
+      720
+    ],
+    "duration": 12
+  }
+]

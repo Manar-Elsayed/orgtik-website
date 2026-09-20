@@ -1,0 +1,68 @@
+[
+  {
+    "file": "brand-cards.webp",
+    "source": "ORGTIK.pdf page 17, original embedded image",
+    "size": [
+      1920,
+      1072
+    ],
+    "role": "Brand application, not a SaaS product capture"
+  },
+  {
+    "file": "brand-phone.webp",
+    "source": "ORGTIK.pdf page 18, original embedded image",
+    "size": [
+      1920,
+      1072
+    ],
+    "role": "Brand application, not a SaaS product capture"
+  },
+  {
+    "file": "brand-glass.webp",
+    "source": "ORGTIK.pdf page 19, original embedded image",
+    "size": [
+      1920,
+      1072
+    ],
+    "role": "Brand application, not a SaaS product capture"
+  },
+  {
+    "file": "brand-tablet.webp",
+    "source": "ORGTIK.pdf page 20, original embedded image",
+    "size": [
+      1920,
+      1072
+    ],
+    "role": "Brand application, not a SaaS product capture"
+  },
+  {
+    "file": "wordmark-white.svg",
+    "source": "ORGTIK.pdf page 14; exact original vector path coordinates",
+    "role": "Supplied brand artwork, mechanically converted to SVG"
+  },
+  {
+    "file": "emblem-white.svg",
+    "source": "ORGTIK.pdf page 14; exact original vector path coordinates",
+    "role": "Supplied brand artwork, mechanically converted to SVG"
+  },
+  {
+    "file": "lockup-white.svg",
+    "source": "ORGTIK.pdf page 14; exact original vector path coordinates",
+    "role": "Supplied brand artwork, mechanically converted to SVG"
+  },
+  {
+    "file": "wordmark-plum.svg",
+    "source": "ORGTIK.pdf page 12; exact original vector path coordinates",
+    "role": "Supplied brand artwork, mechanically converted to SVG"
+  },
+  {
+    "file": "emblem-plum.svg",
+    "source": "ORGTIK.pdf page 12; exact original vector path coordinates",
+    "role": "Supplied brand artwork, mechanically converted to SVG"
+  },
+  {
+    "file": "lockup-plum.svg",
+    "source": "ORGTIK.pdf page 12; exact original vector path coordinates",
+    "role": "Supplied brand artwork, mechanically converted to SVG"
+  }
+]
